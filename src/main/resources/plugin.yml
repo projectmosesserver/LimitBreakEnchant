@@ -1,0 +1,4 @@
+name: LimitBreakEnchant
+version: '${project.version}'
+main: info.ahaha.limitbreakenchant.LimitBreakEnchant
+api-version: 1.17
